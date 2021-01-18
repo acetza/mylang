@@ -1,0 +1,1 @@
+msbuild mylang.vcxproj /property:Configuration=Release
